@@ -1,6 +1,6 @@
 ## Resultados das Previsões de Estoque no SageMaker Canvas
 
-Utilizei como CSV na plataforma de SageMaker Canvas o dataset dataset-1000-com-preco-promocional-e-renovacao-estoque.CSV. 
+Utilizei como CSV na plataforma de SageMaker Canvas o dataset dataset-1000-com-preco-promocional-e-renovacao-estoque.CSV. Inseria em páginas PNG os resultados do que foi feito no SageMaker Canvas.
 Após analisar o modelo de previsão de estoque, obtive as seguintes métricas:
 
 ### Estatísticas de Erro
